@@ -11,15 +11,15 @@ Android application to provide real-time tally of COVID-19 patients in india. It
 * Data represented through line charts and bar graphs for 14 days, 30 days and since beginning.
 * State wise information of COVID-19 testing labs, Helpline numbers, Fundraisers and other public welfare organistaions such as door-step delivery of essentials etc. available with their contact information.
 * Light and Dark theme available.
+* Available lnaguages: English and Hindi.
 
 Note: All data is fetched from Crowdsourced patient database which are verified by group of volunteers.
 
 ## Features to be added
 * State wise tested patient information.
-* Hindi language support.
 
 ## Problems
-* Feel free to put up a pull request or open an issue.
+* If you face any problem, open an issue.
 
 ## Screenshots
 ![Dashboard](screenshots/1.png)   ![Commulative Graphical representation](screenshots/2.png)    ![Daily graphical representation](screenshots/3.png)    ![State wise information of various public welfare organistaion](screenshots/4.png)   ![About screen](screenshots/5.png)    ![District wise data and state data represented as graphs](screenshots/6.png)   ![Dashboard - Light theme](screenshots/7.png)    ![Commulative Graphical representation - Light theme](screenshots/8.png)   ![About screen](screenshots/9.png)
@@ -31,6 +31,9 @@ Note: All data is fetched from Crowdsourced patient database which are verified 
 * [http](https://github.com/dart-lang/http) by [Dart](https://github.com/dart-lang/)
 * [dynamic_theme](https://github.com/Norbert515/dynamic_theme) by [Norbert Kozsir](https://github.com/Norbert515/)
 * [fl_chart](https://github.com/imaNNeoFighT/fl_chart) by [iman khoshabi](https://github.com/imaNNeoFighT/)
+
+## App Icon
+* [Freepik](https://www.freepik.com/free-photos-vectors/logo)
 
 ## Getting Started
 
