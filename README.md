@@ -10,6 +10,7 @@ Android application to provide real-time tally of COVID-19 patients in india. It
 * Graphical representation of total comfirmed, recovered and deceased cases and state wise graphical representation also available.
 * Data represented through line charts and bar graphs for 14 days, 30 days and since beginning.
 * State wise information of COVID-19 testing labs, Helpline numbers, Fundraisers and other public welfare organistaions such as door-step delivery of essentials etc. available with their contact information.
+* Updates timeline available for the day.
 * Light and Dark theme available.
 * Available lnaguages: English and Hindi.
 
