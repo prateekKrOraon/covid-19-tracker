@@ -2,10 +2,15 @@
 
 Android application to provide real-time tally of COVID-19 patients in india. It uses data from [api.covid19india.org](https://api.covid19india.org) and [Crowdsourced Patient Database](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_BqR8hZieWVi-rphN1gfrO3H4lDtVZs4kd0C3P8Y9lhsT1rhoB-Q_cP4/pubhtml)
 
+The main repository will be open sourced soon.
+
+## Download
+Download the APK from [here](https://github.com/prateekKrOraon/covid-19-tracker/releases)
+
 ## Features
 * Real-time updates of COVID-19 patients in India.
-* State wise and distric wise data available.
-* Total number of tested people avilable (Source ICMR).
+* State-wise and district wise data available.
+* Total number of tested people (or samples) avilable (Source ICMR).
 * Sorting of data available.
 * Graphical representation of total comfirmed, recovered and deceased cases and state wise graphical representation also available.
 * Data represented through line charts and bar graphs for 14 days, 30 days and since beginning.
@@ -17,7 +22,8 @@ Android application to provide real-time tally of COVID-19 patients in india. It
 Note: All data is fetched from Crowdsourced patient database which are verified by group of volunteers.
 
 ## Features to be added
-* State wise tested patient information.
+* World data to be added
+* Distric wise information of confirmed, recovered, and deaths
 
 ## Problems
 * If you face any problem, open an issue.
