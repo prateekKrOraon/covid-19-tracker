@@ -12,13 +12,15 @@ Download the APK from [here](https://github.com/prateekKrOraon/covid-19-tracker/
 
 ## Features
 * Real-time updates of COVID-19 patients in India (Global data added in v1.4.2).
-* State wise and district wise data available.
+* State-wise and district-wise data available.
 * Global data available (added in v1.4.2).
 * Total number of tested people available (Source ICMR).
 * Sorting of data available.
-* Graphical representation of total confirmed, recovered and deceased cases and state wise graphical representation also available.
-* Data represented through pie charts (added in v1.4.2) line charts and bar graphs for 14 days, 30 days and since beginning.
-* State wise information of COVID-19 testing labs, Helpline numbers, Fundraisers and other public welfare organisations such as door-step delivery of essentials etc. available with their contact information.
+* Graphical representation of total confirmed, recovered and deceased cases and state-wise graphical representation also available.
+* Data represented through pie charts (added in v1.4.2) line charts and bar graphs for 14 days, 30 days and since the beginning.
+* State-wise information of COVID-19 testing labs, Helpline numbers, Fundraisers and other public welfare organisations such as door-step delivery of essentials etc. available with their contact information.
+* Growth Rate, Growth Factor, State-wise different statistics' graphical comparisons.
+* Can compare spread trends of two countries.
 * Light and Dark theme available.
 * Available languages: English and Hindi.
 
