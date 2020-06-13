@@ -15,6 +15,7 @@ Download the APK from [here](https://github.com/prateekKrOraon/covid-19-tracker/
 * State-wise and district-wise data available.
 * Total number of tested people available (Source ICMR).
 * Sorting of data available.
+* Can check data for any previous date (India Dashboard Only).
 * Graphical representation of total confirmed, recovered and deceased cases and state-wise graphical representation also available.
 * Data represented through pie charts line charts and bar graphs for 14 days, 30 days and since the beginning.
 * State-wise information of COVID-19 testing labs, Helpline numbers, Fundraisers and other public welfare organisations such as door-step delivery of essentials etc. available with their contact information.
@@ -34,8 +35,7 @@ Download the APK from [here](https://github.com/prateekKrOraon/covid-19-tracker/
 ![India Dashboard](screenshots/1.png)   ![Global Dashboard](screenshots/2.png)   ![Cumulative Graphical representation](screenshots/3.png)    ![Daily graphical representation](screenshots/4.png)    ![State wise information of various public welfare organisations](screenshots/5.png)   ![About screen](screenshots/6.png)    ![District wise data and state data represented as graphs](screenshots/7.png)    ![Country specific data screen](screenshots/8.png)    ![India Dashboard - Light theme](screenshots/9.png)    ![Cumulative Graphical representation - Light theme](screenshots/10.png)   ![About screen - Light theme](screenshots/11.png)
 
 ## Data
-* India data: [api.covid19india.org](https://api.covid19india.org) and [Crowdsourced Patient Database](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_BqR8hZieWVi-rphN1gfrO3H4lDtVZs4kd0C3P8Y9lhsT1rhoB-Q_cP4/pubhtml)
-* Global data: [corona.lmao.ninja](https://corona.lmao.ninja) and [covidapi.info](https://covidapi.info)
+* [COVID-19 Tracker API](https://github.com/prateekKrOraon/covid-19-tracker-api)
 
 ## Special thanks
 Special thanks to these two guys for testing the app and giving feedback, suggestions and ideas. This app would have been a mess without you.

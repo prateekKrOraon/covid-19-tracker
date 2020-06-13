@@ -2,6 +2,30 @@
 
 ### Version History
 
+### v1.7.0
+
+#### What's new?
+* Migrated to new API
+* Can check data for any previous date (India Dashboard Only).
+* Changes in UI
+* Bug fixes
+
+#### Features
+* Real-time updates of global COVID-19 patients.
+* State-wise and district-wise data available.
+* Total number of tested people available (Source ICMR).
+* Sorting of data available.
+* Can check data for any previous date (India Dashboard Only).
+* Graphical representation of total confirmed, recovered and deceased cases and state-wise graphical representation also available.
+* Data represented through pie charts line charts and bar graphs for 14 days, 30 days and since the beginning.
+* State-wise information of COVID-19 testing labs, Helpline numbers, Fundraisers and other public welfare organisations such as door-step delivery of essentials etc. available with their contact information.
+* Growth Rate, Growth Factor, State-wise different statistics' graphical comparisons.
+* Can compare spread trends of any two countries
+* Zones information is provided for India, denoted by coloured dots
+* Predictions using SIRD model of epidemiology
+* Light and Dark theme available.
+* Available languages: English and Hindi.
+
 ### v1.6.0
 
 #### What's new?
